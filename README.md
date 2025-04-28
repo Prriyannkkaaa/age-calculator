@@ -5,7 +5,7 @@ A simple Age Calculator that calculates a person's age based on the date of birt
 ## Project URL
 
 - **GitHub Repository**: [https://github.com/Prriyannkkaaa/age-calculator](https://github.com/Prriyannkkaaa/age-calculator)
-- **Live Demo**: [https://age-calculator.example.com](https://age-calculator.example.com)  *(If you have a live demo, otherwise you can remove this line)*
+
 
 ## Installation
 
